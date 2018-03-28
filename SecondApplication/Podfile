@@ -1,0 +1,10 @@
+platform :ios, '11.0'
+require '../common.rb'
+
+target 'SecondApplication' do
+  use_frameworks!
+  common_pods
+
+  pod "Anchorman"
+  pod "TypedNotifications"
+end

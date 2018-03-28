@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Anchorman (3.0)
+  - GenericCells (1.2.1)
+  - TypedNotifications (1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Anchorman
+  - GenericCells
+  - TypedNotifications
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Anchorman: cebf74ae1d3e1244cfdb01073453a23afbcb47e5
+  GenericCells: 4ce88d6d1f522aa5679fa393362e334aa6657be1
+  TypedNotifications: daa28f4a3eee2c7708e44ee6680decc9ba31ce2b
+
+PODFILE CHECKSUM: 23bf52a64c6de50abe2ee03bfdf309e9ede79582
+
+COCOAPODS: 1.4.0.beta.2

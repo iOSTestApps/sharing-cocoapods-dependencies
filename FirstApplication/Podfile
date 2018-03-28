@@ -1,0 +1,10 @@
+platform :ios, '11.0'
+require '../common.rb'
+
+target 'FirstApplication' do
+  use_frameworks!
+  common_pods
+
+  pod "ReactiveCocoa"
+  pod "GenericCells"
+end
